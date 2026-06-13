@@ -1,67 +1,123 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm Rabbi 😀</h1>
-<h4 align="center">I'm a Web Developer & AI Developer </h4>
+<div align="center">
 
+```
+███╗   ██╗ █████╗ ██╗███╗   ███╗██╗   ██╗██████╗
+████╗  ██║██╔══██╗██║████╗ ████║██║   ██║██╔══██╗
+██╔██╗ ██║███████║██║██╔████╔██║██║   ██║██████╔╝
+██║╚██╗██║██╔══██║██║██║╚██╔╝██║██║   ██║██╔══██╗
+██║ ╚████║██║  ██║██║██║ ╚═╝ ██║╚██████╔╝██║  ██║
+╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+```
 
+### `< Naimur Rahman />` — Full Stack Developer
 
-### I have technical experience and interest in:
-* Deep Learning
-* Machine Learning
-* Natural Language Processing
-* Generative AI
-* Web development 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%9A%80;Full+Stack+Developer+%7C+Problem+Solver;Clean+Code+%7C+Scalable+Systems;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
 
+</div>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## `> whoami`
 
-### My Hobbies and interests:
-* Traveling
-* Coding
+```bash
+$ cat about.json
+```
 
+```json
+{
+  "name"      : "Naimur Rahman",
+  "alias"     : "codewithrabbi",
+  "role"      : "Full Stack Developer",
+  "location"  : "Bangladesh 🇧🇩",
+  "focus"     : ["Web Development", "Clean Architecture", "Open Source"],
+  "currently" : "Building cool stuff & contributing to the community",
+  "motto"     : "Code with purpose. Ship with confidence."
+}
+```
 
+---
 
-<!-- <hr>
+## `> tech --stack`
 
-<p><img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;154299027_702927223737487_3316660563751783251_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;EB4ZbXhG1MIAX_X7uls&amp;oh&#x3D;0f1962630e688514ffc312a6ef83d313&amp;oe&#x3D;60688FC2" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;152823526_174537657553375_254380529862366324_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;O6xxL36t11IAX8-25ur&amp;oh&#x3D;6c28c16b56aa43f5bcd0a5cc9384ec28&amp;oe&#x3D;60411750" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c149.0.781.781a&#x2F;s640x640&#x2F;152013126_4328412427197138_5736411879368288581_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;8f2IpAlp_OMAX_1scup&amp;oh&#x3D;e58960d73dbe0e8dd5ec0b79bfdadd83&amp;oe&#x3D;6066A23D" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/c17hawke/" target="_blank"><br>@c17hawke!</a> on Instagram</p>
+<div align="center">
 
-<hr> -->
+**Frontend**
 
-#### You can also find me on: 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-[<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="entbappy | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-[<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
-                                                                                                                                                                       
+**Backend**
 
-<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<hr>
+**Tools & DevOps**
 
-[linkedin]: https://www.linkedin.com/
-[twitter]: https://twitter.com/
-[Instagram]: https://www.instagram.com/
-[YouTube]: https://www.youtube.com/
-[LeetCode]: https://leetcode.com/
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 💰 You can support me if you liked my work by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/codewithrabbi/)
+</div>
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=entbappy" alt="entbappy" /></a> </p> 
+## `> github --stats`
 
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithrabbi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrabbi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="" /></p>
+</div>
 
--->
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=codewithrabbi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF6C37&currStreakLabel=00F5FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> activity --graph`
+
+<div align="center">
+
+[![Naimur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithrabbi&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6C37&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `> contact --all`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-codewithrabbi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithrabbi)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithrabbi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://codewithrabbi.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+$ echo "Thanks for visiting! Let's build something amazing together."
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=codewithrabbi&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
