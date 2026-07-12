@@ -1,123 +1,101 @@
-<div align="center">
+<h1 align="center">
 
-```
-███╗   ██╗ █████╗ ██╗███╗   ███╗██╗   ██╗██████╗
-████╗  ██║██╔══██╗██║████╗ ████║██║   ██║██╔══██╗
-██╔██╗ ██║███████║██║██╔████╔██║██║   ██║██████╔╝
-██║╚██╗██║██╔══██║██║██║╚██╔╝██║██║   ██║██╔══██╗
-██║ ╚████║██║  ██║██║██║ ╚═╝ ██║╚██████╔╝██║  ██║
-╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-```
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Hi+there%2C+I'm+Naimur+Rahman+%F0%9F%91%8B;Full+Stack+Web+Developer;WordPress+Theme+%26+Plugin+Developer;CSE+Student+%7C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
 
-### `< Naimur Rahman />` — Full Stack Developer
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%9A%80;Full+Stack+Developer+%7C+Problem+Solver;Clean+Code+%7C+Scalable+Systems;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f7ff&height=180&section=header&text=CodeWithRabbi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20web%2C%20one%20clean%20line%20of%20code%20at%20a%20time&descAlignY=58&descSize=16" width="100%"/>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/codewithrabbi">
+    <img src="https://komarev.com/ghpvc/?username=codewithrabbi&label=Profile%20Views&color=00f7ff&style=flat-square" alt="profile views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/codewithrabbi?label=Followers&style=flat-square&color=00f7ff" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=flat-square" alt="status" />
+</p>
 
 ---
 
-## `> whoami`
+### 🚀 About Me
 
-```bash
-$ cat about.json
-```
-
-```json
-{
-  "name"      : "Naimur Rahman",
-  "alias"     : "codewithrabbi",
-  "role"      : "Full Stack Developer",
-  "location"  : "Bangladesh 🇧🇩",
-  "focus"     : ["Web Development", "Clean Architecture", "Open Source"],
-  "currently" : "Building cool stuff & contributing to the community",
-  "motto"     : "Code with purpose. Ship with confidence."
-}
+```yaml
+name: "Naimur Rahman"
+github: "@codewithrabbi"
+role: "Full Stack Web Developer"
+education: "CSE Student"
+location: "Bangladesh 🇧🇩"
+current_focus: "Building modern, animated & responsive web experiences"
+wordpress: "Theme & Plugin Development, Theme Customization"
+languages_i_speak: ["Bangla 🇧🇩", "English 🇬🇧"]
+fun_fact: "I turn coffee ☕ into clean, scalable code 💻"
 ```
 
----
-
-## `> tech --stack`
-
-<div align="center">
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+- 🔭 I build full-stack web apps with **HTML, CSS, JS, PHP & MySQL**
+- 🎨 I craft sleek, modern UIs using **Tailwind CSS**
+- 🧠 Solid foundation in **C, C++ & Python**
+- 🔌 I develop **custom WordPress themes & plugins** + full theme customization
+- 🌱 Always learning, always shipping
+- 💬 Ask me about: WordPress, PHP/MySQL, Tailwind, JS
 
 ---
 
-## `> github --stats`
+### 🛠️ Tech Stack
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithrabbi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrabbi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=codewithrabbi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF6C37&currStreakLabel=00F5FF)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,mysql,wordpress,cpp,c,py,git,github,vscode,figma&perline=8" alt="tech stack" />
+</p>
 
 ---
 
-## `> activity --graph`
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithrabbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="github stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithrabbi&theme=tokyonight&hide_border=true" width="48%" alt="streak stats"/>
+</p>
 
-[![Naimur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codewithrabbi&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6C37&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="top languages"/>
+</p>
 
-</div>
-
----
-
-## `> contact --all`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-codewithrabbi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithrabbi)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithrabbi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://codewithrabbi.dev)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithrabbi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
+</p>
 
 ---
 
-<div align="center">
+### 🏆 GitHub Trophies
 
-```bash
-$ echo "Thanks for visiting! Let's build something amazing together."
-```
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithrabbi&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" alt="trophies"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=codewithrabbi&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
+---
 
-</div>
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/codewithrabbi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00f7ff" />
+  </a>
+  <!-- Replace the # below with your real profile links -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=00f7ff" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0f172a&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/codewithrabbi">codewithrabbi</a> — Thanks for stopping by!</i>
+</p>
