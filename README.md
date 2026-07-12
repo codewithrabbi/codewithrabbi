@@ -2,7 +2,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Hi+there%2C+I'm+Naimur+Rahman+%F0%9F%91%8B;Full+Stack+Web+Developer;WordPress+Theme+%26+Plugin+Developer;CSE+Student+%7C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
 
-</h1>
+</h1><br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00f7ff&height=180&section=header&text=CodeWithRabbi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20web%2C%20one%20clean%20line%20of%20code%20at%20a%20time&descAlignY=58&descSize=16" width="100%"/>
