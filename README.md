@@ -57,10 +57,6 @@ fun_fact: "I turn coffee ☕ into clean, scalable code 💻"
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithrabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="top languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithrabbi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
 </p>
 
