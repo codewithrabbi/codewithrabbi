@@ -61,13 +61,6 @@ fun_fact: "I turn coffee ☕ into clean, scalable code 💻"
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithrabbi&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" alt="trophies"/>
-</p>
-
----
 
 ### 🌐 Connect With Me
 
