@@ -52,7 +52,6 @@ fun_fact: "I turn coffee ☕ into clean, scalable code 💻"
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithrabbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="github stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithrabbi&theme=tokyonight&hide_border=true" width="48%" alt="streak stats"/>
 </p>
 
